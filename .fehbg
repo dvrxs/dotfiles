@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/ban/Images/Wallpapers/anime_girl.png' 
